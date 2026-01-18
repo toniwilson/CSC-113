@@ -1,5 +1,5 @@
 # CSC-113
-Artificial Intelligence
+AI Fundamentals
 
 # Hi! My name's Toni Wilson
 
